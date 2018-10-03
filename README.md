@@ -53,7 +53,7 @@ http://localhost:8080/crudServletJsp/UserController
 
 ## Licence
 
-User Registration is licensed under <a href="LICENSE">The MIT License (MIT)</a>.
+This project is licensed under <a href="LICENSE">The MIT License (MIT)</a>.
 
 ## Screenshots
 
